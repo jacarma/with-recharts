@@ -2,7 +2,7 @@
 
 > This project is generated with `npx create-react-library` with default options and then adding a dependency to [recharts](https://github.com/recharts/recharts)
 
-Compilation never ends. Try `yarn build`
+Compilation never ends. Try `yarn build` 
 
 [![NPM](https://img.shields.io/npm/v/with-recharts.svg)](https://www.npmjs.com/package/with-recharts) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
